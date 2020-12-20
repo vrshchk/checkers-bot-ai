@@ -1,4 +1,4 @@
-AI Client to play checkers
+AI client to play checkers with minimax and alpha-beta prunning
 
 Server link: https://github.com/gf0x/foai-checkers-server 
 
